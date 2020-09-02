@@ -1,0 +1,45 @@
+C:\DEV\OIDC MVC\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\DEV\OIDC MVC\bin\Debug\netcoreapp3.1\appsettings.json
+C:\DEV\OIDC MVC\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\DEV\OIDC MVC\bin\Debug\netcoreapp3.1\OIDC MVC.exe
+C:\DEV\OIDC MVC\bin\Debug\netcoreapp3.1\OIDC MVC.deps.json
+C:\DEV\OIDC MVC\bin\Debug\netcoreapp3.1\OIDC MVC.runtimeconfig.json
+C:\DEV\OIDC MVC\bin\Debug\netcoreapp3.1\OIDC MVC.runtimeconfig.dev.json
+C:\DEV\OIDC MVC\bin\Debug\netcoreapp3.1\OIDC MVC.dll
+C:\DEV\OIDC MVC\bin\Debug\netcoreapp3.1\OIDC MVC.pdb
+C:\DEV\OIDC MVC\bin\Debug\netcoreapp3.1\OIDC MVC.Views.dll
+C:\DEV\OIDC MVC\bin\Debug\netcoreapp3.1\OIDC MVC.Views.pdb
+C:\DEV\OIDC MVC\obj\Debug\netcoreapp3.1\OIDC MVC.csprojAssemblyReference.cache
+C:\DEV\OIDC MVC\obj\Debug\netcoreapp3.1\staticwebassets\OIDC MVC.StaticWebAssets.Manifest.cache
+C:\DEV\OIDC MVC\obj\Debug\netcoreapp3.1\staticwebassets\OIDC MVC.StaticWebAssets.xml
+C:\DEV\OIDC MVC\obj\Debug\netcoreapp3.1\OIDC MVC.MvcApplicationPartsAssemblyInfo.cache
+C:\DEV\OIDC MVC\obj\Debug\netcoreapp3.1\OIDC MVC.RazorAssemblyInfo.cache
+C:\DEV\OIDC MVC\obj\Debug\netcoreapp3.1\OIDC MVC.RazorAssemblyInfo.cs
+C:\DEV\OIDC MVC\obj\Debug\netcoreapp3.1\OIDC MVC.AssemblyInfoInputs.cache
+C:\DEV\OIDC MVC\obj\Debug\netcoreapp3.1\OIDC MVC.AssemblyInfo.cs
+C:\DEV\OIDC MVC\obj\Debug\netcoreapp3.1\OIDC MVC.TagHelpers.input.cache
+C:\DEV\OIDC MVC\obj\Debug\netcoreapp3.1\OIDC MVC.TagHelpers.output.cache
+C:\DEV\OIDC MVC\obj\Debug\netcoreapp3.1\OIDC MVC.RazorCoreGenerate.cache
+C:\DEV\OIDC MVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\DEV\OIDC MVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\DEV\OIDC MVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\DEV\OIDC MVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\DEV\OIDC MVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\DEV\OIDC MVC\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\DEV\OIDC MVC\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\DEV\OIDC MVC\obj\Debug\netcoreapp3.1\OIDC MVC.RazorTargetAssemblyInfo.cache
+C:\DEV\OIDC MVC\obj\Debug\netcoreapp3.1\OIDC MVC.RazorTargetAssemblyInfo.cs
+C:\DEV\OIDC MVC\obj\Debug\netcoreapp3.1\OIDC MVC.Views.pdb
+C:\DEV\OIDC MVC\obj\Debug\netcoreapp3.1\OIDC MVC.dll
+C:\DEV\OIDC MVC\obj\Debug\netcoreapp3.1\OIDC MVC.pdb
+C:\DEV\OIDC MVC\obj\Debug\netcoreapp3.1\OIDC MVC.csproj.CopyComplete
+C:\DEV\OIDC MVC\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+C:\DEV\OIDC MVC\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\DEV\OIDC MVC\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\DEV\OIDC MVC\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\DEV\OIDC MVC\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\DEV\OIDC MVC\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\DEV\OIDC MVC\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\DEV\OIDC MVC\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\DEV\OIDC MVC\obj\Debug\netcoreapp3.1\Razor\Views\Login\Index.cshtml.g.cs
+C:\DEV\OIDC MVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Dashboard.cshtml.g.cs
